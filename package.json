@@ -1,7 +1,6 @@
 {
   "name": "airbnb-clone-20DCS078",
   "version": "0.1.0",
-  "homepage": "https://kartikp36.github.io/airbnb-clone/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
